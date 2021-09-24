@@ -109,15 +109,15 @@ author:
   links:
     - label: "Personal Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:tcellis22@gmail.com"
+      url: "mailto:tcellis22@gmail.com"
        
     - label: "Business Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "tellis111035@mymail.tstc.edu"
+      url: "mailto:tellis111035@mymail.tstc.edu"
        
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://tristen-e.github.io/"
+      url: "https://tristen-e.github.io/"
        
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
