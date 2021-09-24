@@ -11,21 +11,21 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    :  "dark" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Tristen Ellis-Developer"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tristen Ellis"
 description              : "An amazing website."
 url                      : "https://tristen-e.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" "https://tristen-e.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/tristen-e.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "Tristen-e/Tristen-e.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/pfpSound_400x400.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Tristen Ellis - Developer" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Tristen Ellis"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/pfpSound_400x400.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a **developer**."
   location         : "USA"
   email            : "tcellis22@gmail.com"
@@ -141,13 +141,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/___tristen"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/tristen.ellis.3"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/Tristen-e"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -156,7 +156,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/tristen.mp5/?hl=en"
 
 
 # Reading Files
@@ -293,7 +293,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
-      related: true
+      related: false
