@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: https://tristen-e.github.io/
+permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
