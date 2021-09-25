@@ -2,11 +2,11 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "About"
+   - title: "About(broken)"
      url: https://tristen-e.github.io/Tristen-e.github.io/about/
-   - title: "Sample Posts"
+   - title: "About"
      url: https://tristen-e.github.io/Tristen-e.github.io/sample-page/
    - title: "Portfollio"
      url: https://tristen-e.github.io/Tristen-e.github.io/portfolio/
-   - title: "Sitemap"
+   - title: "Sitemap(inactive)"
      url: https://tristen-e.github.io/Tristen-e.github.io/_pages/sitemap/
