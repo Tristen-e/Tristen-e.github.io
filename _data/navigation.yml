@@ -5,7 +5,7 @@ main:
    - title: "About"
      url: /_pages/
    - title: "Sample Posts"
-     url: /_pages/sample-page.md
+     url: /sample-page/
    - title: "Portfollio"
      url: /portfolio/
    - title: "Sitemap"
