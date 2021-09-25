@@ -1,5 +1,5 @@
 ---
-title: "Sample Page"
+title: "About 2"
 permalink: /sample-page/
 date: 2016-02-24T03:02:20+00:00
 ---
