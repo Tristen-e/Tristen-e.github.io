@@ -7,6 +7,6 @@ main:
    - title: "Sample Posts"
      url: /_pages/sample-page.md
    - title: "Portfollio"
-     url: /_pages/portfolio-archive.md
+     url: /portfolio/
    - title: "Sitemap"
      url: /sitemap/
