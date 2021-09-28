@@ -1,12 +1,12 @@
 # main links
 main:
   #- title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  #  url: "https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/"
    - title: "About(broken)"
-     url: https://tristen-e.github.io/Tristen-e.github.io/about/
+     url: "https://tristen-e.github.io/Tristen-e.github.io/about/"
    - title: "About"
-     url: https://tristen-e.github.io/Tristen-e.github.io/sample-page/
+     url: "https://tristen-e.github.io/Tristen-e.github.io/sample-page/"
    - title: "Portfollio"
-     url: https://tristen-e.github.io/Tristen-e.github.io/portfolio/
+     url: "https://tristen-e.github.io/Tristen-e.github.io/portfolio/"
    - title: "Sitemap(inactive)"
-     url: https://tristen-e.github.io/Tristen-e.github.io/_pages/sitemap/
+     url: "https://tristen-e.github.io/Tristen-e.github.io/_pages/sitemap/"
